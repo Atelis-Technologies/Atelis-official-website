@@ -83,7 +83,7 @@
   /*===== Search bar js end ======*/
   
   /*=== Text Animation ===*/
-  var words = ['Frontend Development', 'Backend Develpment', 'Mobile App Development', 'Product Design' ],
+  var words = ['Software Development', 'Trainings', ' Innovation and Research'],
   part,
   i = 0,
   offset = 0,
