@@ -1,0 +1,17 @@
+ <div class="row align-items-center">
+                    <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+                        <div class="slider-content">
+                            <div class="animated-title">
+                                <h1>Atelis</h1>
+                                <div class="word"></div>
+                            </div>
+                            <p>Welcome to Atelis, a programming institute where we teach web development in a fun and engaging way.</p>
+                            <p>Our goal is to empower students with the skills they need to succeed in today's digital economy.</p>
+                            <div class="slider-button">
+                                <!--a href="./assets/images/CV.pdf" download class="btn banner-btn">Download CV <i class="bi bi-download"></i></a-->
+                            </div>
+                        </div>
+                        
+                       
+                    </div>
+                </div>
