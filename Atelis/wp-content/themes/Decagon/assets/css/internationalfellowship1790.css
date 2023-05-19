@@ -1,0 +1,1072 @@
+/* First Section */
+
+
+.hero2-section{
+    width: 92%;
+    margin: auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.hero2-img{
+    width: 100%;
+    height: auto;
+}
+
+.hero2-img img{
+    width: 100%;
+}
+
+.hero2-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero2-text h1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 124.7%;
+    text-transform: uppercase;
+    color: #2D2F48;
+}
+
+.hero2-text p{
+    width: 80%;
+    margin: auto;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    color: #2D2F48;
+    opacity: 0.7;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.hero2-text a{
+    width: 40%;
+    margin: auto;
+    top: 693px;
+    background: linear-gradient(96.67deg, #ffcc00 0%, #B8D344 100%);
+    text-decoration: none;
+    padding: 15px 25px;
+    margin-bottom: 40px;
+}
+
+.hero2-text a{
+    color: #ffffff;
+}
+
+.hero2-link{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 124.7%;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.worked-with{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.worked-with p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 42px;
+    color: #000000;
+    opacity: 0.7;
+}
+
+.worked-with-img{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto;
+}
+
+.worked-with-img img{
+    border-radius: 9px;
+    width: 150px !important;
+    display: grid;
+    place-content: center;
+    height: 90px;
+    margin: 20px;
+    background: #ffffff;
+}
+
+/* End of First Section */
+
+
+/* Second Section */
+
+.second-section-two{
+    background: #F9F9FB;
+    padding: 20px 70px;
+}
+
+.second-section-two h1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2D2F48;
+    margin-bottom: 20px;
+}
+
+.mentors{
+    text-align: center;
+}
+
+.single-mentor h3{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    margin-top: 30px;
+}
+
+.single-mentor p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+    opacity: 0.7;
+    margin-bottom: 40px;
+}
+
+
+/* End of Second Section */
+
+/* Third Section */
+
+
+.why-section{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.why-section-one{
+    margin-bottom: 10px;
+}
+
+.why-section-one h2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 51px;
+    text-transform: uppercase;
+    color: #2D2F48;
+}
+
+.why-section-one p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 27px;
+    color: #000000;
+    opacity: 0.8;
+}
+
+.why-section-one a{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 124.7%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffcc00;
+    text-decoration: none;
+    margin-bottom: 40px;
+}
+
+.why-text{
+    margin-bottom: 10px;
+}
+
+.why-text h3{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.why-text p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    color: #000000;
+    opacity: 0.8;
+}
+
+/* End of Third Section */
+
+
+/* End of Fourth Section */
+
+.fourth-section-fourth{
+    background: #2D2F48;
+    color: #FFFFFF;
+    padding: 20px 50px;
+}
+
+.fourth-section-fourth h1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.fourth-section-one{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.what-you-enjoy-img,
+.fourth-section-two-img{
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.what-you-enjoy-img img,
+.fourth-section-two-img img{
+    width: 100%;
+}
+
+.what-you-enjoy-items h3,
+.exceptional-decadevs-items h3{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+
+.what-you-enjoy-items p,
+.exceptional-decadevs-items p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    opacity: 0.8;
+}
+
+.exceptional-decadevs-items{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+/* End of Fourth Section */
+
+
+/* Fifth Section */
+
+.how-section{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 5px 40px;
+}
+
+.how-content{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.fifth-section-fifth h1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 51px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.how-content-img{
+    width: 100%;
+}
+
+.how-content-img img{
+    width: 100%;
+}
+
+.how-desc{
+    margin-top: 40px;
+}
+
+.how-desc-items{
+    display: flex;
+    margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.how-desc-items-img{
+    width: 30%;
+}
+
+.how-desc-items-text{
+    width: 70%;
+    color: #000000;
+}
+
+.how-desc-items-text h3{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    text-transform: uppercase;
+}
+
+.how-desc-items-text p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    opacity: 0.8;
+}
+
+/* End of Fifth Section */
+
+/* End of Sixth Section */
+
+.sixth-section-sixth{
+    padding: 30px 50px;
+}
+
+.sixth-section-sixth h1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 51px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2D2F48;
+}
+
+.leadership-section{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.leadership-card{
+    padding: 30px 40px;
+    width: 330px;
+    height: 500px;
+    background: linear-gradient(180deg, rgba(184, 211, 68, 0.13) 0%, rgba(255, 255, 255, 0) 100%);
+    border: 1px solid #E4E4E4;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
+
+.leadership-card img{
+    width: 90px;
+    height: 90px;
+    margin-bottom: 30px;
+}
+
+.leadership-card h3{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.leadership-card p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 25px;
+    color: #ffcc00;
+    opacity: 0.7;
+    text-transform: uppercase;
+}
+
+.leader-info ul{
+    list-style: none;
+    text-align: center;
+    margin-left: -40px;
+    margin-top: 30px;
+}
+
+.leader-info li{
+    margin-bottom: 18px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+}
+/* End of Sixth Section */
+
+/* Seventh Section */
+.seventh-section-seventh{
+    padding: 20px 50px;
+}
+
+.seventh-section-seventh h1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 61px;
+    text-align: center;
+    color: #2D2F48;
+}
+
+.faq-section{
+    text-align: center;
+}
+
+.faq-section-items{
+    margin-top: 25px;
+}
+
+.faq-section-items h3{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.faq-section-items p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #636363;
+}
+
+/* End of Seventh Section */
+
+
+/* Eighth Section */
+.eighth-section-eighth{
+    background: #F9F9FB;
+}
+
+.skills-section{
+    margin-top: 15px;
+    padding: 40px 40px;
+}
+
+.skills-section-img,
+.skills-section-img img{
+    width: 100%;
+}
+
+.skills-section-desc h3{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #2C3134;
+}
+
+.skills-section-desc p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 23px;
+    color: #636363;
+    text-align: center;
+}
+
+.skills-section-desc{font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #636363;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 16px;
+}
+
+.list-skills{
+    display: flex;
+    display: row;
+    flex-wrap: wrap;
+}
+
+.skills-section-desc ul{
+    list-style: none;
+    text-align: start;
+    padding-left: 0px;
+}
+
+.skills-section-desc li{
+    margin: 5px;
+    margin-bottom: 20px;
+}
+.stacks td{
+    width: 70%;
+}
+
+/* End of Eighth Section */
+
+/* Ninth Section */
+.ninth-section-ninth{
+    background: #2D2F48;
+    padding: 50px 40px;
+    padding-bottom: 80px;
+}
+
+.ninth-section-ninth h1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 29px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.ninth-section-ninth p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.form-section {
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+/* End of Ninth Section */
+
+@media (min-width: 70em){
+
+    /* First Section */
+    .hero2-section{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .hero2-container{
+        display: flex;
+        flex-direction: row;
+        width: 95%;
+        margin: auto;
+    }
+
+    .hero2-text{
+        text-align: start;
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+    }
+
+    .hero2-text p{
+        text-align: start;
+        font-size: 18px;
+        width: 100%;
+    }
+
+    .hero2-text a{
+        margin: 0px;
+        width: 355px;
+        height: 60px;
+    }
+
+
+    .hero2-img{
+        width: 50%;
+    }
+
+    .worked-with{
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 30px;
+    }
+
+    .worked-with p{
+        align-self: center;
+        margin-right: 20px;
+        font-size: 15px;
+        line-height: 42px;
+        color: #000000;
+    }
+
+    /* End of First Section */
+
+
+    /* Second Section */
+
+    .mentor-section{
+        width: 77%;
+        margin: auto;
+    }
+
+    .mentor-section{
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 46px;
+    }
+
+    .mentors{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    /* End of Second Section */
+
+    /* Third Section */
+    
+    .why-section{
+        width: 77% !important;
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+        height: 501px;
+        padding-top: 70px;
+    }
+
+    .why-section-one{
+        width: 50%;
+        text-align: start;
+    }
+
+    .why-section-one h2{
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 61px;
+    }
+
+    .why-section-one p{
+        font-size: 17px;
+        line-height: 32px;
+    }
+
+    .why-section-one a{
+        font-size: 17px;
+        line-height: 32px;
+    }
+
+    .why-section-two{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 50%;
+        height: 100%;
+        padding-left: 30px;
+    }
+
+    .why{
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 20px;
+        text-align: start;
+    }
+
+    .why-img{
+        width: 20%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .why-text{
+        width: 80%;
+    }
+
+    .why img{
+        margin-right: 30px;
+        width: 80%;
+    }
+
+    .why h3{
+        text-align: start;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .why p{
+        width: 308px;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    /* End of Third Section */
+
+    /* Fourth Section */
+    .fourth-section-fourth{
+        padding-bottom: 30px;
+    }
+
+    .hire-section{
+        width: 77%;
+        margin: auto;
+    }
+
+    .hire-section h1{
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 46px;
+        width: 731px;
+        margin: auto;
+    }
+
+    .fourth-section-one{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 50px;
+        padding-top: 30px;
+    }
+
+    .what-you-enjoy,
+    .what-you-enjoy-img{
+        width: 50%;
+    }
+
+    .what-you-enjoy-items{
+        margin-bottom: 20px;
+    }
+    .what-you-enjoy-items h3{
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 25px;
+        width: 316px;
+    }
+
+    .what-you-enjoy-items p{
+        font-size: 17px;
+        line-height: 22px;
+    }
+
+    .what-you-enjoy-img{
+        padding-left: 20px;
+    }
+
+    .fourth-section-two{
+        display: flex;
+        flex-direction: row;
+        padding: 20px;
+        padding-top: 50px;
+    }
+
+    .exceptional-decadevs{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 50%;
+        padding-left: 30px;
+    }
+
+    .fourth-section-two-img{
+        width: 50%;
+        text-align: center;
+    }
+
+    .fourth-section-two-img img{
+        width: 90%;
+    }
+
+    .exceptional-decadevs-items{
+        text-align: start;
+        margin-bottom: 12px;
+    }
+
+    .exceptional-decadevs-items h3{
+        margin-bottom: 0px;
+    }
+
+    .exceptional-decadevs-items p{
+        width: 407px;
+        margin-top: 2px;
+        font-size: 17px;
+    }
+
+    /* End of Fourth Section */
+
+    /* Fifth Section */
+
+    .fifth-section-fifth{
+        width: 100%;
+        padding-top: 30px;
+        padding-bottom: 80px;
+    }
+
+    .how-section{
+        width: 77%;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        padding: 0px 0px;
+    }
+
+    .how-section h1{
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 61px;
+        text-align: start;
+    }
+
+    .how-content{
+        display: flex;
+        flex-direction: row;
+        padding-top: 40px;
+    }
+
+    .how-desc,
+    .how-content-img{
+        width: 50%;
+    }
+
+    .how-desc{
+        margin-top: 0px;
+    }
+
+    .how-content-img img{
+        width: 80%;
+    }
+
+    .how-desc-items-img{
+        width: 90px;
+    }
+
+    .how-desc-items-text h3{
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 25px;
+        width: 122px;
+    }
+
+    .how-desc-items-text p{
+        font-size: 17px;
+        line-height: 22px;
+        width: 325px;
+    }
+
+    /* End of Fifth Section */
+
+    /* Sixth Section */
+
+    .sixth-section-sixth h1{
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 61px;
+    }
+
+    .leadership-card{
+        margin: 15px;
+        width: 330px;
+        height: 621px;
+    }
+
+    .leadership-card h3{
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .leadership-card p{
+        line-height: 25px;
+    }
+
+    .leader-info li{
+        font-size: 17px;
+        line-height: 22px;
+    }
+
+    /* End of Sixth Section */
+
+    /* Seventh Section */
+
+    .seventh-section-seventh{
+        padding: 0px 0px;
+        padding-top: 60px;
+        padding-bottom: 40px;
+    }
+
+
+    .seventh-section-seventh h1{
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 61px;
+    }
+
+    .faq-section{
+        width: 77%;
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        text-align: start;
+    }
+
+    .faq-section-items{   
+        width: 45%;   
+    }
+
+    .faq-section-items h3{
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 42px;
+    }
+
+    .faq-section-items p{
+        font-size: 17px;
+        line-height: 22px;
+    }
+
+    /* End of Seventh Section */
+
+    /* Eighth Section */
+
+    .skills-section{
+        display: flex;
+        flex-direction: row;
+        width: 77%;
+        margin: auto;
+        padding: 0px 0px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .skills-section-img{
+        width: 50%;
+        margin: auto;
+    }
+
+    .skills-section-img img{
+        width: 95%;
+    }
+
+    .skills-section-desc{
+        width: 50%;
+        padding: 30px;
+    }
+
+    .skills-section-desc h3{
+        text-align: start;
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 56px;
+    }
+
+
+    .skills-section-desc p{
+        text-align: start;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .list-skills ul{
+        width: 90%;
+        display: inline-flex;
+        flex-wrap: wrap;
+    }
+
+    .list-skills li{
+        width: 47%;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    /* End of Eighth Section */
+
+    /* Ninth Section */
+    .ninth-section-ninth h1{
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 46px;
+        width: 755px;
+        padding-top: 20px;
+        margin: auto;
+    }
+
+    .ninth-section-ninth p{
+        font-size: 17px;
+        line-height: 30px;
+        width: 755px;
+        padding-top: 25px;
+        padding-bottom: 40px;
+        margin: auto;
+    }
+
+    .form-section{
+        width: 60%;
+        margin: auto;
+    }
+    
+}
+@media (max-width: 70em){
+    .stacks td{
+        display: block;
+    }
+}

@@ -1,0 +1,231 @@
+/* Section 1 */
+.section-one{
+}
+
+.section-one-text{
+    padding: 20px;
+    color: #21334F;
+}
+
+.section-one-text h1{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 50px;
+    margin-bottom: 20px;
+    text-align: start;
+}
+
+.section-one-text p{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.section-one-image{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.section-one-image img{
+    width: 80px;
+    height: 80px;
+}
+
+.section-one-form{
+    background: rgba(0, 0, 0, 0.04);
+    padding: 20px;
+    padding-top: 60px !important;
+}
+
+.section-one-form p{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+    color: #21334F;
+    margin-bottom: 15px;
+    width: auto;
+}
+
+.hireadev-loc{
+    width: 100% !important;
+}
+
+.dev-form-label{
+    display: block;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #21334F;
+}
+
+.dev-form-input{
+    width: 100% !important;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    font-family: 'Mulish' !important;
+    font-style: normal !important;
+    font-weight: 300;
+    font-size: 16px !important;
+    border: 1px solid rgba(33, 51, 79, 0.1);
+    padding-left: 2px !important;
+    height: 40px;
+}
+
+.dev-form-textarea{
+    width: 100% !important;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    font-family: 'Mulish' !important;
+    font-style: normal !important;
+    font-weight: 300;
+    font-size: 16px !important;
+    border: 1px solid rgba(33, 51, 79, 0.1);
+    padding-left: 2px !important;
+}
+
+.dev-form-group{
+    margin-bottom: 12px;
+}
+
+.section-two{
+    padding: 20px;
+    padding-bottom: 50px;
+}
+
+.section-two h1{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 50px;
+    text-align: center;
+    font-feature-settings: 'liga' off;
+    color: #21334F;
+}
+
+.section-two-hire{
+    padding-top: 40px;
+}
+
+.section-two-hire-item{
+    margin: auto;
+}
+
+.hire-item-text{
+    justify-content: center;
+    align-items: center;
+    padding: 14px 32px;
+    gap: 10px;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    background: #F6F7F8;
+    border-radius: 10px;
+}
+
+.hire-item-desc{
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    width: 250px;
+}
+
+.hire-item-desc img{
+    height: 70px;
+    width: 70px;
+    border-radius: 70px;
+    margin-right: 10px;
+}
+
+
+.hire-item-name h3{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 23px;
+    font-feature-settings: 'liga' off;
+    color: #21334F;
+    margin-top: 1rem;
+}
+
+.hire-item-name p{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 21px;
+    font-feature-settings: 'liga' off;
+    color: #21334F;
+}
+
+@media (min-width: 50em) {
+    .section-one{
+        padding: 120px;
+        padding-bottom: 0px;
+        justify-content: space-between;
+    }
+
+    .section-one-text{
+        width: 48%;
+    }
+
+    .section-one-text h1{
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 60px;
+    }
+    
+    .section-one-text p{
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        width: auto;
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+
+    .section-one-image img{
+        width: 90px;
+        height: 90px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+    }
+
+    .section-one-form{
+        width: 48%;
+        padding-right: 30px;
+    }
+
+    .section-two{
+        display: flex;
+        flex-direction: column;
+        padding: 120px;
+        padding-top: 0px;
+    }
+
+    .section-two h1{
+        font-weight: 600;
+        font-size: 48px;
+        line-height: 60px;
+        width: 60%;
+        margin: auto;
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    .hire-item-text{
+        width: 80%;
+        gap: 0px;
+    }
+}

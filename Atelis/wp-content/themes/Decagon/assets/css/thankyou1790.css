@@ -1,0 +1,66 @@
+.container-thank-you {
+  display: grid;
+  place-items: center;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.main-text {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  font-weight: 1000;
+  line-height: 1.1;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.sub-text {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 30px;
+  width: 80%;
+}
+
+.submit-button {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  width: 70%;
+  background: linear-gradient(96.67deg, #ffcc00 0%, #b8d344 100%);
+  border: none;
+  padding: 20px 0;
+  color: #fff;
+  margin: auto;
+  text-decoration: none;
+}
+
+.submit-button:hover {
+  color: #fff;
+}
+
+@media only screen and (min-width: 980px) {
+
+    .main-text {
+        font-size: 72px;
+        margin-top: 90px;
+        margin-bottom: 25px;
+    }
+
+    .sub-text {
+        font-size: 25px;
+        width: 50%;
+    }
+
+    .submit-button {
+        margin-top: 50px;
+        width: 40%;
+    }
+}
+
+
